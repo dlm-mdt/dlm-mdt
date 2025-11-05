@@ -4,20 +4,20 @@
 
 ## Features
 
-**Dispatch Kanban Board**
-Drag & drop incident management system with customizable columns and supervisor locking for workflow control.
+**Dispatch (Kanban Board Inspired)**
+- Drag & drop incident management system with customizable columns and supervisor locking for workflow control.
 
 **Citizen Management**
-Advanced search module with complete arrest history, photo gallery, criminal records, and detailed tracking.
+- Advanced search module with complete arrest history, photo gallery, criminal records, and detailed tracking.
 
 **FiveM Vehicle Integration**
-Direct connection to your FiveM database with license plate and owner search capabilities.
+- Direct connection to your FiveM database with license plate and owner search capabilities.
 
 **Time Tracking System**
-Automatic clock-in/out system with weekly statistics and precise officer time tracking.
+- Automatic clock-in/out system with weekly statistics and precise officer time tracking.
 
 **Officer Directory**
-Grade-organized roster including profile photos and contact information.
+- Grade-organized roster including profile photos and contact information.
 
 **Supervision Tools**
 - Expense report approval workflow
@@ -57,12 +57,12 @@ Hierarchical structure with granular permissions and differentiated access level
 
 ## What's Included
 
-✓ Secure web hosting
-✓ MySQL database
-✓ Initial setup
-✓ FiveM integration
-✓ Complete documentation
-✓ Dedicated technical support
+- ✓ Secure web hosting
+- ✓ MySQL database
+- ✓ Initial setup
+- ✓ FiveM integration
+- ✓ Complete documentation
+- ✓ Dedicated technical support
 
 ## Contact & Order
 
